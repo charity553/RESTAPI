@@ -8,7 +8,7 @@ const pool = new Pool({
     host:"localhost",
     database:"students",
     password:"Justus#123",
-    port:5432,
+    port:5433,
 });
 
 // export the pool
